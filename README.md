@@ -104,3 +104,8 @@ FROM students_predictions
 WHERE predicted_risk = 1 
   AND absences > 10;
 ```
+## 📌 Author
+
+**Khomliuk Pavlo**  
+[GitHub](https://github.com/Pashokkkk)  
+[LinkedIn](https://www.linkedin.com/in/pavlo-khomliuk-234799251/)
