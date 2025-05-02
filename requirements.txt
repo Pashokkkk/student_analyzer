@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+sqlite3  # only if needed for clarity, but technically sqlite3 is built into Python
